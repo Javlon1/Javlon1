@@ -2,8 +2,8 @@
 
 ### Connect with me
 
-[![Telegram](https://img.shields.io/badge/Telegram-black)](https://t.me/Muhammadjonov_javlon)
-[![Instagram](https://img.shields.io/badge/Instagram-black)](https://www.instagram.com/javlon1243/)
+[![Telegram](https://img.shields.io/badge/Telegram-blue)](https://t.me/Muhammadjonov_javlon)
+[![Instagram](https://img.shields.io/badge/Instagram-pink)](https://www.instagram.com/javlon1243/)
 ##
 
 
