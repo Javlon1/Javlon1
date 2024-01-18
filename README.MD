@@ -17,14 +17,6 @@
 </p>
 
 
-## About me
-- 🔭 Currently working at **[Naqsh Soft](https://naqshsoft.uz)**
-- 💬 Feel free to ask me anything about programming on my Instagram **[Instagram](https://www.instagram.com/javlon1243)**
-<a href="https://www.linkedin.com/">
-  <b>Linkedin</b><img align="left" alt="LinkedIN" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-</a>
-
-
 ### Frameworks and libraries
 ![HTML](https://img.shields.io/badge/HTML-5-informational)
 ![CSS](https://img.shields.io/badge/CSS-3-informational)
@@ -37,7 +29,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.0-blueviolet)
 
 
-## Tools
+### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
