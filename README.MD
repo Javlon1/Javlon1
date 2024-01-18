@@ -2,7 +2,7 @@
 <h1>
     Welcome to Javlon profile!
 
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Front-End+developer)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Front-End+developer)](https://git.io/typing-svg)
 </h1>
 
 
