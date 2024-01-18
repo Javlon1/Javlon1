@@ -2,8 +2,9 @@
 
 ### Connect with me
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue)](https://t.me/Muhammadjonov_javlon)
-[![Instagram](https://img.shields.io/badge/Instagram-pink)](https://www.instagram.com/javlon1243/)
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Muhammadjonov_javlon)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/javlon1243/)
+
 ##
 
 
@@ -18,21 +19,23 @@
 
 
 ### Frameworks and libraries
-![HTML](https://img.shields.io/badge/HTML-5-informational)
-![CSS](https://img.shields.io/badge/CSS-3-informational)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5-orange)
-![Next.js](https://img.shields.io/badge/Next.js-12.0-green)
-![React](https://img.shields.io/badge/React-16.0-blue)
-![SCSS](https://img.shields.io/badge/SCSS-4.0-pink)
-![Redux](https://img.shields.io/badge/Redux-7.0-purple)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.0-blueviolet)
+
+[![HTML](https://img.shields.io/badge/HTML-%2343853D.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![React](https://img.shields.io/badge/React-%23013243.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+
 ##
 
 
 ### Tools
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 ##
 
 
