@@ -1,4 +1,8 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mukhammadjonov+Javlon;I+am+Front-end+developer)](https://git.io/typing-svg)
+
+<h3>Welcome to Javlon profile!</h3>
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435;I`am+Front-End+developer)](https://git.io/typing-svg)
+
 
 ### Connect with me
 
