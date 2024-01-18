@@ -1,5 +1,4 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mukhammadjonov+Javlon;I+am+Front-end+developer)](https://git.io/typing-svg)
-</br>
 
 ### Connect with me
 
@@ -16,7 +15,6 @@
   <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=javlon1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
     <img alt="javlon1 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=javlon1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 </p>
-##
 
 
 ### Frameworks and libraries
