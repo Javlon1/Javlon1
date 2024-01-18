@@ -36,6 +36,7 @@
 [![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![Context](https://img.shields.io/badge/Context-%23232323.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/docs/context.html)
 
 ##
 
