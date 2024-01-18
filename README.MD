@@ -3,8 +3,8 @@
 
 ## Connect with me
 
-[![Telegram](https://img.shields.io/badge/Telegram-Javlon-black)](https://t.me/Muhammadjonov_javlon)
-[![Instagram](https://img.shields.io/badge/Instagram-Javlon-black)](https://www.instagram.com/javlon1243/)
+[![Telegram](https://img.shields.io/badge/Telegram-black)](https://t.me/Muhammadjonov_javlon)
+[![Instagram](https://img.shields.io/badge/Instagram-black)](https://www.instagram.com/javlon1243/)
 
 
 ## 📊 Github stats
@@ -25,11 +25,7 @@
 </a>
 
 
-## Technology Stack
-## Front-end
-
-
-## Main
+### Frameworks and libraries
 ![HTML](https://img.shields.io/badge/HTML-5-informational)
 ![CSS](https://img.shields.io/badge/CSS-3-informational)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -44,3 +40,13 @@
 ## Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+### ☁ Cloud hosting
+<p>
+    <a href="#">
+        <img alt="vercel"
+             src="https://img.shields.io/badge/vercel-fff.svg?style=for-the-badge&logo=vercel&logoColor=000"/></a>
+    <a href="#">
+        <img alt="netlify"
+             src="https://img.shields.io/badge/netlify-46a2eb.svg?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+</p>
